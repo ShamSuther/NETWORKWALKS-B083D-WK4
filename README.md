@@ -3,4 +3,4 @@ Submitted by: Sham Sunder\
 Organisation: Networkwalks\
 Mentor: Waqas Karim, CCIE\
 Batch: B083D\
-[View Report](/W4-Final_Report.pdf)
+<a href="/W4-Final_Report.pdf" target="_blank" rel="noopener noreferrer">View Report</a>
